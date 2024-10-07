@@ -29,7 +29,7 @@ In my free time, you'll find me at my computer gaming, exploring new hobbies, li
 - Email: shae.jacobs01@gmail.com
 - LinkdLn: [LinkedIn](https://www.linkedin.com/in/shae-jacobs/) 
 - Phone: Please Email in regards to my phone number.💚
-- Download my CV here [Download PDF](https://github.com/Shae-Jacobs/CV/blob/main/Shae%20Jacobs%20CV.pdf)
+- See my CV here[PDF](https://github.com/Shae-Jacobs/CV/blob/main/Shae%20Jacobs%20CV.pdf)
 <!---
 Shae-Jacobs/Shae-Jacobs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
