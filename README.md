@@ -9,13 +9,13 @@ Kia ora! I'm Shae, a Full Stack Web Developer originally from a small town in Ta
 - **Deployment**: Dokku, Vercel
 ## Projects 
 ### Hot Coffee
-Have you ever had an amazing or really bad coffee? If so, hot coffee is an app where you can rate a coffee based on your experience. You can also view different cafes and see their ratings and information
+This was our final showcase project, where I collaborated with three others to build an application in just one week. Learn more about the project [here](https://github.com/Shae-Jacobs/Hot-Coffee).
 ### Query em All
-A one-day project where users can explore different Pokémon and view their details using the Pokémon API. For more information, check out the repo!
+A one-day project where users can explore different Pokémon and view their details using the Pokémon API. For more information, check out the project [here!](https://github.com/Shae-Jacobs/query-em-all)
 ### Revenge Of Video Ezy
-A two-day group project where users can browse a variety of movies and their details using the movies API. Check out the repo for more info!
+A two-day group project where users can browse a variety of movies and their details using an API. Check out the [project](https://github.com/Shae-Jacobs/revenge-of-the-video-ezy) for more infomation!
 ### Troll Toll
-A three-day group project with a facilitator.
+I collaborated with a large group of peers on a three-day project with guidance from a facilitator. For more details, click [here](https://github.com/Shae-Jacobs/troll-toll)
 ## 💗 Human Skills 🗣️
 - Empathy
 - Agile Methodologies
